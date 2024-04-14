@@ -8,15 +8,18 @@ This repository contains code for a robot with two main features: autonomous nav
 ![roomMapExample](https://github.com/KarthiU/LidarFeatureExtraction/assets/112822491/5a9c0e3a-d117-4529-9865-27b2659066fe)
 
 ## Features
-# Robot Navigation
-The robot utilizes algorithms to navigate autonomously.
-It is capable of avoiding obstacles using sensor data.
+### Robot Navigation
+- The robot utilizes algorithms to navigate autonomously.
+- It is capable of avoiding obstacles using sensor data.
 
-# Feature Detection System
-Utilizes LiDAR data to create a point cloud representation of the environment.
-Implements feature detection algorithms to identify key features in the surroundings.
+### Feature Detection System
+- Utilizes LiDAR data to create a point cloud representation of the environment.
+- Implements feature detection algorithms to identify key features in the surroundings.
 
-## Dependencies 
+## Dependencies
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)](https://numpy.org/)
+- [![SciPy](https://img.shields.io/badge/SciPy-white?style=for-the-badge&logo=scipy)](https://numpy.org/)
 
 
 ## References 
