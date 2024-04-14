@@ -14,3 +14,9 @@ Feature Detection System
 
 Utilizes LiDAR data to create a point cloud representation of the environment.
 Implements feature detection algorithms to identify key features in the surroundings.
+
+## Dependencies 
+
+
+## References 
+Feature detection algorithm based on proposed seed region growing found in this [paper](https://journals.sagepub.com/doi/pdf/10.1177/1729881418755245)
